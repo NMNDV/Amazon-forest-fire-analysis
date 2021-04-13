@@ -1,0 +1,1 @@
+In order to use the rasterio_image_folder_loader.py file you need to install package named rasterio(https://pypi.org/project/rasterio/). This is not mendatory because once you install requirements.txt this will install pillow in your environment the you wont be needed this package.
